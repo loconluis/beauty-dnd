@@ -1,0 +1,1 @@
+## Knowledge tests using [React-beauty-DnD](https://github.com/atlassian/react-beautiful-dnd).
